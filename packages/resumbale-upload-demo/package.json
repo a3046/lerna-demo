@@ -1,6 +1,6 @@
 {
   "name": "resumable-upload-demo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "resumable upload demo，断点续传的demo",
   "keywords": [
     "resumable-upload",
